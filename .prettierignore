@@ -1,0 +1,9 @@
+src/*.css
+package.json
+package-lock.json
+public/manifest.json
+tsconfig.json
+tsconfig.test.json
+tsconfig.prod.json
+tslint.json
+README.md
